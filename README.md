@@ -15,11 +15,11 @@
 
 ✔️ ***Tenho estudado teconologias relacionadas a:***
 
-![Ciência de Dados](https://img.shields.io/static/v1?label=DS&message=Ciência_de_Dados&color=black&style=flat-square)
+![Ciência de Dados](https://img.shields.io/static/v1?label=DS&message=Ciência_de_Dados&color=black&style=flat)
 
-![Análise de Dados](https://img.shields.io/static/v1?label=DA&message=Análise_de_Dados&color=black&style=flat-square)
+![Análise de Dados](https://img.shields.io/static/v1?label=DA&message=Análise_de_Dados&color=black&style=flat)
 
-![Engenharia de Dados](https://img.shields.io/static/v1?label=DE&message=Engenharia_de_Dados&color=black&style=flat-square)
+![Engenharia de Dados](https://img.shields.io/static/v1?label=DE&message=Engenharia_de_Dados&color=black&style=flat)
 
 📚 ***Estou Aprendendo:***
 
