@@ -14,7 +14,6 @@ _Estou Aprendendo e me Desenvolvendo nas seguintes Tecnologias:_
 _Contatos:_
 
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="30" height="30"/>](https://www.linkedin.com/in/bruno-rigueti-brandao/)
-[<img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord" width="30" height="30"/>](bruno_rigueti#6419)
 [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/>](https://twitter.com/rigueti_bruno)
 
 
