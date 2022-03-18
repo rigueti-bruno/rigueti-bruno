@@ -34,6 +34,7 @@ _Sobre mim:_
 
 
 📈 ***Status:***
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigueti-bruno&show_icons=true&theme=gotham&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigueti-bruno&show_icons=true&theme=gotham&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rigueti-bruno&locale=pt-br&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-:---: | :---: | :---:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigueti-bruno&show_icons=true&theme=gotham&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigueti-bruno&show_icons=true&theme=gotham&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+:---: | :---:
+|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rigueti-bruno&locale=pt-br&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
