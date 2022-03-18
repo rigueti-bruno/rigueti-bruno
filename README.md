@@ -5,7 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=rigueti-bruno" alt="rigueti-bruno" />
 
-_Sobre mim:_
+#### Sobre mim:
 
 
 - 💡 ***Fascinado por Dados!***
@@ -14,16 +14,18 @@ _Sobre mim:_
 
 
 ✔️ ***Tenho estudado teconologias relacionadas a:***
-- _Ciência de Dados_ 🧮
-- _Análise de Dados_ 📊
-- _Engenharia de Dados_ ⚙️
 
+![Ciência de Dados](https://img.shields.io/static/v1?label=DS&message=Ciência_de_Dados&color=black&style=flat-square)
 
+![Análise de Dados](https://img.shields.io/static/v1?label=DA&message=Análise_de_Dados&color=black&style=flat-square)
+
+![Engenharia de Dados](https://img.shields.io/static/v1?label=DE&message=Engenharia_de_Dados&color=black&style=flat-square)
 
 📚 ***Estou Aprendendo:***
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="Linguagem R" alt="R" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="25" height="25"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png" title="Power BI" alt="Power BI" width="25" height="25"/>
+![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python&logoWidth=15&color=000000&labelColor=1C1C1C)|![R](https://img.shields.io/badge/-LinguagemR-333333?style=plastic&logo=r&logoWidth=15&color=000000&labelColor=1C1C1C)|![MySQL](https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql&logoWidth=15&color=000000&labelColor=1C1C1C)|
+:---:|:---:|:---:
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=postgresql&logoWidth=15&color=000000&labelColor=1C1C1C)|![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=plastic&logo=mongodb&logoWidth=15&color=000000&labelColor=1C1C1C)|![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=plastic&logo=powerbi&logoWidth=15&color=000000&labelColor=1C1C1C)
 
 📧 ***Contatos:***
 
