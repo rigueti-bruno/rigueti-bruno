@@ -25,9 +25,9 @@
 
 📚 ***Estou Aprendendo:***
 ------
-![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python&logoWidth=15&color=000000&labelColor=1C1C1C)  ![R](https://img.shields.io/badge/-LinguagemR-333333?style=plastic&logo=r&logoWidth=15&color=000000&labelColor=1C1C1C)  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql&logoWidth=15&color=000000&labelColor=1C1C1C)
+![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python&logoWidth=15&color=3CB371&labelColor=000000)  ![R](https://img.shields.io/badge/-LinguagemR-333333?style=plastic&logo=r&logoWidth=15&color=3CB371&labelColor=000000)  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql&logoWidth=15&color=3CB371&labelColor=000000)
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=postgresql&logoWidth=15&color=000000&labelColor=1C1C1C)  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=plastic&logo=mongodb&logoWidth=15&color=000000&labelColor=1C1C1C)  ![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=plastic&logo=powerbi&logoWidth=15&color=000000&labelColor=1C1C1C)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=postgresql&logoWidth=15&color=3CB371&labelColor=000000)  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=plastic&logo=mongodb&logoWidth=15&color=3CB371&labelColor=000000)  ![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=plastic&logo=powerbi&logoWidth=15&color=3CB371&labelColor=000000)
 
 📧 ***Contatos:***
 ---
