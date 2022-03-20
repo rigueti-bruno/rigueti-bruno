@@ -3,12 +3,6 @@
   <img src="https://fontmeme.com/permalink/220319/3fd7b501e4adffd2c0dcb33d288f55f6.png" />
 </div>
 
-<div align="center">
-  
-</div>
-
-
-
 👨‍💻 ***Sobre mim***
 ---
 
