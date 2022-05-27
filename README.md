@@ -25,7 +25,7 @@
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=postgresql&logoWidth=15&color=3CB371&labelColor=000000)  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=plastic&logo=mongodb&logoWidth=15&color=3CB371&labelColor=000000)  ![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=plastic&logo=powerbi&logoWidth=15&color=3CB371&labelColor=000000)
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=plastic&logo=html5&logoWidth=15&color=3CB371&labelColor=000000) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=plastic&logo=css3&logoWidth=15&color=3CB371&labelColor=000000) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript&logoWidth=15&color=3CB371&labelColor=000000) ![Java](https://img.shields.io/badge/-Java-333333?style=plastic&logo=javascript&logoWidth=15&color=3CB371&labelColor=000000)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=plastic&logo=html5&logoWidth=15&color=3CB371&labelColor=000000) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=plastic&logo=css3&logoWidth=15&color=3CB371&labelColor=000000) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript&logoWidth=15&color=3CB371&labelColor=000000) ![Java](https://img.shields.io/badge/-Java-333333?style=plastic&logo=java&logoWidth=15&color=3CB371&labelColor=000000)
 
 📧 ***Contatos***
 ---
