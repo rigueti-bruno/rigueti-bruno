@@ -1,6 +1,6 @@
 ## Bruno Rigueti Brandão
 
-🌍 Vinhosa  Itaperuna  RJ  
+🌍 Porto  Muriae  MG
 📧 bruno.r.brandao@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/bruno-rigueti-brandao-analise-dados-financeiros/)  
 
