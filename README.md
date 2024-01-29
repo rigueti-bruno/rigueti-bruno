@@ -19,3 +19,5 @@ Busco oportunidades desafiadoras na área de Análise de Dados e Ciência de Dad
 ### Objetivo
 
 Aplicar habilidades em análise de dados e experiência em gestão financeira para contribuir com o crescimento e aprimoramento de empresas por meio de insights e soluções baseadas em dados.
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65960b3dae22c125231c70d9?variant=dark&roadmaps=python)](https://roadmap.sh)
