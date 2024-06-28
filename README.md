@@ -1,6 +1,6 @@
 ## Bruno Rigueti Brandão
 
-🌍 Vinhosa - Itaperuna - RJ
+:house: Vinhosa - Itaperuna - RJ
 
 :email: bruno@rigueti.com  
 :newspaper: [Site](https://www.rigueti.com/)  
