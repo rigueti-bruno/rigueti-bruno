@@ -2,9 +2,9 @@
 
 🌍 Vinhosa - Itaperuna - RJ
 
-📧 bruno@rigueti.com  
-🔗 [Site](https://www.rigueti.com/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/bruno-rigueti-brandao-analise-dados-financeiros/)
+:email: bruno@rigueti.com  
+:newspaper: [Site](https://www.rigueti.com/)  
+:bookmark_tabs: [LinkedIn](https://www.linkedin.com/in/bruno-rigueti-brandao-analise-dados-financeiros/)
 
 ### Sobre Mim
 
