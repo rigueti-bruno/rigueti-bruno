@@ -1,22 +1,43 @@
-## Bruno Rigueti Brandão
+# **Bruno Rigueti Brandão 🚀**  
+🔹 **Analista de Dados | Prescriptive Analytics | SQL | Python | Power BI**  
 
-:house: Vinhosa - Itaperuna - RJ
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brunorigueti-blue?logo=linkedin)](https://www.linkedin.com/in/brunorigueti-analise-dados/)  
+[![Email](https://img.shields.io/badge/Email-bruno@rigueti.com-red?logo=gmail)](mailto:bruno@rigueti.com)  
 
-:email: bruno@rigueti.com  
-:newspaper: [Site](https://www.rigueti.com/)  
-:bookmark_tabs: [LinkedIn](https://www.linkedin.com/in/bruno-rigueti-brandao-analise-dados-financeiros/)
+---
 
-### Sobre Mim
+## **👋 Sobre mim**  
+Sou um profissional apaixonado por **transformar dados em decisões estratégicas**. Com experiência sólida em **gestão financeira e análise de dados**, desenvolvo soluções para otimizar processos e gerar insights acionáveis. Atualmente, estou me especializando em **Análise Prescritiva e Inteligência de Negócios**, combinando **SQL, Python e Power BI** para criar modelos preditivos e automatizados.  
 
-Busco oportunidades desafiadoras na área de Análise de Dados e Ciência de Dados, com foco em aplicar minha expertise em finanças para impulsionar o crescimento e a eficiência das empresas.
+---
 
-### Hard Skills
+## **🛠️ Tecnologias e Ferramentas**  
+🔹 **Linguagens**: `Python`, `SQL`  
+🔹 **BI e Visualização**: `Power BI`, `Excel`, `Google Sheets`  
+🔹 **Automação & Dados**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
+🔹 **Banco de Dados**: `MySQL`, `PostgreSQL`  
+🔹 **Outras Ferramentas**: `LibreOffice Calc`, `Microsoft Word`, `PowerPoint`  
 
-- Análise de Dados: Excel, Power BI, Python, SQL.
-- Gestão Financeira: Contas a pagar/receber, fluxo de caixa, negociações bancárias.
-- Certificações: CPA 20 - Anbima.
-- Formação Acadêmica: Ciência de Dados e MBA em Gestão de Negócios.
+---
 
-### Objetivo
+## **📌 Projetos em Destaque**  
 
-Aplicar habilidades em análise de dados e experiência em gestão financeira para contribuir com o crescimento e aprimoramento de empresas por meio de insights e soluções baseadas em dados.
+🔹 **[Análise de Dados Financeiros - Grupo Neoguard](https://github.com/rigueti-bruno/etl-dados-financeiros)**  
+🔹 **[Planilha para Análise de Crédito - Sicredi](https://github.com/rigueti-bruno/capacidade-pagamento)**  
+🔹 **[Planilha de Controle Orçamentário - FAPUR](https://github.com/rigueti-bruno/controle-orcamento)**  
+
+📍 *Confira mais projetos no repositório!*  
+
+---
+
+## **📈 Estatísticas do GitHub**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rigueti-bruno&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigueti-bruno&layout=compact&theme=dark)  
+
+---
+
+## **📫 Vamos Conectar?**  
+📩 **E-mail**: [bruno@rigueti.com](mailto:bruno@rigueti.com)  
+🌎 **LinkedIn**: [linkedin.com/in/brunorigueti-analise-dados](https://www.linkedin.com/in/brunorigueti-analise-dados/)  
+
+🔹 *Aberto a oportunidades em tecnologia e análise de dados!* 🚀  
