@@ -1,43 +1,64 @@
-# **Bruno Rigueti Brandão 🚀**  
-🔹 **Analista de Dados | Prescriptive Analytics | SQL | Python | Power BI**  
+# Bruno Rigueti Brandão
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-brunorigueti-blue?logo=linkedin)](https://www.linkedin.com/in/brunorigueti-analise-dados/)  
-[![Email](https://img.shields.io/badge/Email-bruno@rigueti.com-red?logo=gmail)](mailto:bruno@rigueti.com)  
+## Analista de Dados · Cientista de Dados em formação
 
----
-
-## **👋 Sobre mim**  
-Sou um profissional apaixonado por **transformar dados em decisões estratégicas**. Com experiência sólida em **gestão financeira e análise de dados**, desenvolvo soluções para otimizar processos e gerar insights acionáveis. Atualmente, estou me especializando em **Análise Prescritiva e Inteligência de Negócios**, combinando **SQL, Python e Power BI** para criar modelos preditivos e automatizados.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brunorigueti-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunorigueti-analise-dados/)
+[![Email](https://img.shields.io/badge/Email-bruno@rigueti.com-EA4335?logo=gmail&logoColor=white)](mailto:bruno@rigueti.com)
 
 ---
 
-## **🛠️ Tecnologias e Ferramentas**  
-🔹 **Linguagens**: `Python`, `SQL`  
-🔹 **BI e Visualização**: `Power BI`, `Excel`, `Google Sheets`  
-🔹 **Automação & Dados**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
-🔹 **Banco de Dados**: `MySQL`, `PostgreSQL`  
-🔹 **Outras Ferramentas**: `LibreOffice Calc`, `Microsoft Word`, `PowerPoint`  
+## Sobre mim
+
+12 anos de experiência profissional convergindo naturalmente para dados. Não migrei para a área — fui empurrado para ela por uma forma de resolver problemas que sempre esteve presente: onde outros viam caos financeiro ou processos inexistentes, eu via dados não estruturados esperando por uma ferramenta.
+
+Hoje atuo como **Analista de Dados na Moavi**, onde desenvolvo sistemas ETL automatizados em Python  que geram arquivos que servem de input para algoritmos de otimização.
+
+A trajetória: planilhas dinâmicas → SQL → Python → pipelines ETL → dashboards em Power BI → ciência de dados.
 
 ---
 
-## **📌 Projetos em Destaque**  
+## Stack
 
-🔹 **[Análise de Dados Financeiros - Grupo Neoguard](https://github.com/rigueti-bruno/etl-dados-financeiros)**  
-🔹 **[Planilha para Análise de Crédito - Sicredi](https://github.com/rigueti-bruno/capacidade-pagamento)**  
-🔹 **[Planilha de Controle Orçamentário - FAPUR](https://github.com/rigueti-bruno/controle-orcamento)**  
+**Dados & Engenharia**
+`Python` `Pandas` `SQL` `MySQL` `SQL Server` `ETL` `Power BI`
 
-📍 *Confira mais projetos no repositório!*  
+**Análise & Estatística**
+`Regressão Linear` `Curva ABC` `Pareto` `Estatística Aplicada`
+
+**Desenvolvimento**
+`OOP` `Modularização` `Tkinter` `Django` `GitHub`
+
+**Domínio de Negócio**
+`Análise Financeira` `Análise de Crédito` `Modelagem de DRE` `Gestão de Projetos` `ERP`
 
 ---
 
-## **📈 Estatísticas do GitHub**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rigueti-bruno&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigueti-bruno&layout=compact&theme=dark)  
+## Projetos em Destaque
+
+| Projeto | Descrição |
+|---|---|
+| [ETL Financeiro — Neoguard](https://github.com/rigueti-bruno/etl-dados-financeiros) | Pipeline Python → MySQL → Power BI para KPIs de 3 empresas e 6 unidades de negócio |
+| [Análise de Crédito — Sicredi](https://github.com/rigueti-bruno/capacidade-pagamento) | Planilha paramétrica com critérios quantitativos para automação de análise de crédito |
+| [Controle Orçamentário — FAPUR](https://github.com/rigueti-bruno/controle-orcamento) | Controle de execução financeira de projetos de pesquisa da UFRRJ |
 
 ---
 
-## **📫 Vamos Conectar?**  
-📩 **E-mail**: [bruno@rigueti.com](mailto:bruno@rigueti.com)  
-🌎 **LinkedIn**: [linkedin.com/in/brunorigueti-analise-dados](https://www.linkedin.com/in/brunorigueti-analise-dados/)  
+## Foco atual de aprendizado
 
-🔹 *Aberto a oportunidades em tecnologia e análise de dados!* 🚀  
+- **Machine Learning**
+- **Estatística Avançada & Probabilidade**
+- **Engenharia de Dados**
+- **Django**
+- **JavaScript**
+- **Vue.js**
+
+---
+
+## Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rigueti-bruno&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigueti-bruno&layout=compact&theme=dark&hide_border=true)
+
+---
+
+[bruno@rigueti.com](mailto:bruno@rigueti.com) · [linkedin.com/in/brunorigueti-analise-dados](https://www.linkedin.com/in/brunorigueti-analise-dados/)
