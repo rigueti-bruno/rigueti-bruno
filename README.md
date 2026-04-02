@@ -2,7 +2,7 @@
 
 ## Analista de Dados · Cientista de Dados em formação
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-brunorigueti-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunorigueti-analise-dados/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brunorigueti-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunorigueti/)
 [![Email](https://img.shields.io/badge/Email-bruno@rigueti.com-EA4335?logo=gmail&logoColor=white)](mailto:bruno@rigueti.com)
 
 ---
