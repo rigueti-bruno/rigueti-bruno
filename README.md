@@ -61,4 +61,4 @@ A trajetória: planilhas dinâmicas → SQL → Python → pipelines ETL → das
 
 ---
 
-[bruno@rigueti.com](mailto:bruno@rigueti.com) · [linkedin.com/in/brunorigueti-analise-dados](https://www.linkedin.com/in/brunorigueti-analise-dados/)
+[bruno@rigueti.com](mailto:bruno@rigueti.com) · [linkedin.com/in/brunorigueti-analise-dados](https://www.linkedin.com/in/brunorigueti/)
