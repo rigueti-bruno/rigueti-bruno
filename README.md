@@ -22,7 +22,3 @@ Atualmente, trabalho como **Analista de Operações na Moavi**, desenvolvendo ro
 ### Foco atual
 
 `Analytics` `Business Intelligence` `Engenharia de Dados` `Machine Learning`
-
----
-
-[LinkedIn](https://www.linkedin.com/in/brunorigueti/) · [E-mail](mailto:bruno@rigueti.com)
