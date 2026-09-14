@@ -25,6 +25,4 @@ Atualmente, trabalho como **Analista de Operações na Moavi**, desenvolvendo ro
 
 ---
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rigueti-bruno\&layout=compact\&theme=dark\&hide_border=true)
-
 [LinkedIn](https://www.linkedin.com/in/brunorigueti/) · [E-mail](mailto:bruno@rigueti.com)
